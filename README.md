@@ -13,7 +13,6 @@
   <a href="https://shorturl.at/l7dbO">
   <img src="https://img.shields.io/badge/Resume-purple?style=for-the-badge" alt="Resume Badge"/>
   </a>
-  [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 </div>
 
 <h3 align="left">About Me:</h3>
@@ -32,6 +31,7 @@
 
 - 🌐 My Hacker Rank :) [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-green?style=flat&logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/venkatesh19v)
 
+- Contribution :)  [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 <h3 align="left">Languages and Tools:</h3>
 
 <div>
